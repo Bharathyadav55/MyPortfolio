@@ -1,6 +1,6 @@
 import React from "react";
 import SideBar from "./SideBar";
-import { useNavigate } from "react-router-dom";
+//import { useNavigate } from "react-router-dom";
 import { CiLink } from "react-icons/ci";
 import { FaGithub } from "react-icons/fa";
 
@@ -47,7 +47,7 @@ const ProjectThumb = ({ title, tech, img, github, demo, readMoreClick }) => {
 };
 
 export default function Home() {
-  const navigate = useNavigate();
+ 
   const projects = [
     {
       title: "My-Portfolio website",
@@ -63,7 +63,7 @@ export default function Home() {
       img: require("../assets/Todo_list.png"),
       github: "https://github.com/Bharathyadav55/TodoList",
       demo: "todolist-bharathyadav.netlify.app",
-      // readMoreClick: () => navigate("/project/8nZp3QYK"),
+      
     },
   ];
 
