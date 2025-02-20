@@ -27,7 +27,7 @@ const SideBar = () => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://drive.google.com/file/d/1-J9L2z50dmDR09VnTkJgWwmNw1_IikoS/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1s2m5OgAkiKhb-ACLkIQZqnFh5RETHeEJ/view?usp=sharing"
               >
                 Resume
               </a>
