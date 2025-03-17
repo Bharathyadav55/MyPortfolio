@@ -53,8 +53,8 @@ export default function Home() {
       title: "My-Portfolio website",
       tech: "React.js, Node.js, Tailwind",
       img: require("../assets/portfolio.png"),
-      github: "https://github.com/kamal9494/sportTracker",
-      demo: "https://sporttrackpro.vercel.app/",
+      github: "https://github.com/Bharathyadav55/MyPortfolio",
+      demo: "https://portfolio-bharathyadav.netlify.app",
       readMoreClick: null,
     },
     {
